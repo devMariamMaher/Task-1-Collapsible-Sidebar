@@ -7,7 +7,7 @@ It is fully responsive across devices (mobile, tablet, desktop).
 ---
 
 ## 🔗 Live Demo: 
-https://elevate-task-gamma.vercel.app/home
+https://devmariammaher.github.io/Task-1-Collapsible-Sidebar/
 
 ---
 
