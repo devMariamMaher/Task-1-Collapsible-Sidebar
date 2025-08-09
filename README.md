@@ -69,5 +69,5 @@ Simply open the `index.html` file in your browser to view the project.
 
 ## 💡 Author
 
-Developed by **[Your Name]** during an internship project.  
+Developed by **Mariam Maher** during an internship project.  
 Feel free to reach out for feedback or collaboration opportunities.
