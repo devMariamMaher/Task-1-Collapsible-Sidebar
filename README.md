@@ -24,10 +24,10 @@ It is designed to be **responsive** and adaptable for different screen sizes —
 - 📱 **Responsive Design** — Works on mobile, tablet, and desktop.
 - 🎨 **Smooth Animation** — Sidebar slides in/out with a transition effect.
 - 🖼 **Responsive Logo** — The logo adjusts its size automatically across devices.
-- 🖱 **Toggle Buttons** — Separate **open (hamburger)** and **close (X)** buttons.
+- 🖱 **Toggle Buttons** — Separate **open** and **close (X)** buttons.
 - 🌑 **Overlay Background** — Dims the page when the sidebar is open.
-- 📋 **Navigation Menu with Icons** — Includes 4–5 sample links with Font Awesome icons.
-- ⚡ **Lightweight** — Built with plain HTML, CSS, and JavaScript (no frameworks required).
+- 📋 **Navigation Menu with Icons** — Includes 5 sample links with Font Awesome icons.
+- ⚡ **Lightweight** — Built with plain HTML, CSS, and JavaScript.
 
 ---
 
